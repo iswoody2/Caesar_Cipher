@@ -1,4 +1,5 @@
 Caesar Cipher Project
+
 📜 Project Purpose
 This project implements a Caesar Cipher — a classic encryption technique used in cryptography, where each letter in the text is shifted a certain number of places in the alphabet. This Python program allows users to encode or decode messages by specifying the shift amount, making it an interactive way to learn about one of the simplest forms of encryption.
 
