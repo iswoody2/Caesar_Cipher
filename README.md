@@ -7,11 +7,15 @@ Python: The core programming language for this project.
 Python Libraries:
 art: Used for displaying the ASCII art logo.
 Standard Python functions and constructs such as loops, conditionals, functions, and lists.
+
+
 🔍 Features
 Encoding and Decoding: Users can choose to either encode (encrypt) or decode (decrypt) a message.
 Shift Control: Customizable shift amount allows users to control how far each letter is shifted.
 Character Handling: Supports letters, while ignoring numbers, spaces, and special characters, allowing users to enter complex messages without losing non-alphabet characters.
 Looped Interaction: Users are prompted to encode or decode multiple messages until they decide to exit.
+
+
 💡 Impact
 The Caesar Cipher project is a straightforward yet effective way to understand the basics of encryption. It provides hands-on practice with fundamental programming concepts such as:
 
